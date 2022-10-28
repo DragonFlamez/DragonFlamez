@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <h3 align="center">A mediocre-advanced programmer depending on the topic</h3>
-<img align="right" alt="Kirito" width="400" src="https://tenor.com/bdUse.gif">
+<img align="right" alt="Kirito" width="400" src="[https://tenor.com/bdUse.gif](https://media.tenor.com/Jid1-RtC-LEAAAAi/sword-art-online-sao.gif)">
 
 - 🔭 I’m currently working on [Overwatcheat](https://github.com/DragonFlamez/Overwatcheat)
 
