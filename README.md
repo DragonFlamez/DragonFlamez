@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <h3 align="center">A mediocre-advanced programmer depending on the topic</h3>
-<img align="right" alt="Kirito" src="[https://tenor.com/bdUse.gif](https://media.tenor.com/Jid1-RtC-LEAAAAi/sword-art-online-sao.gif)">
+<div class="tenor-gif-embed" data-postid="15669264" data-share-method="host" data-aspect-ratio="1.01587" data-width="100%"><a href="https://tenor.com/view/sword-art-online-sao-anime-kirito-kazuto-kirigaya-gif-15669264">Sword Art Online Sao Sticker</a>from <a href="https://tenor.com/search/sword+art+online-stickers">Sword Art Online Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🔭 I’m currently working on [Overwatcheat](https://github.com/DragonFlamez/Overwatcheat)
 
