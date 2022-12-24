@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kingkrishtdm@gmail.com**
 
-- ⚡ Fun fact **I am a weird combination of Anime, Programming, Gaming, and Right Wing Politics. Haven't ever met a person like me XD**
+- ⚡ Fun fact **I am a weird combination of Anime, Programming, and Gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
