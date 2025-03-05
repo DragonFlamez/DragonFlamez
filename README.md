@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <h3 align="center">A mediocre-advanced programmer depending on the topic</h3>
 
-- 🔭 I’m currently working on [Overwatcheat](https://github.com/DragonFlamez/Overwatcheat)
+- 🔭 I’m currently working on N/A
 
 - 🌱 I’m currently learning **advanced Python, React, zsh**
 
