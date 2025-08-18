@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <h3 align="center">A mediocre-advanced programmer depending on the topic</h3>
 
-- 🔭 I’m currently working on N/A
-
 - 🌱 I’m currently learning **advanced Python, React, zsh**
-
-- 👯 I’m looking to collaborate on [Subeteno](https://github.com/DragonFlamez/Subeteno)
 
 - 💬 Ask me about **anime, life, and school**
 
