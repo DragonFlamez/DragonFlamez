@@ -1,26 +1,33 @@
-<h1 align="center">Hi 👋, I'm Krish</h1>
-<h3 align="center">A mediocre-advanced programmer depending on the topic</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Computer Architecture**
+<img
+  src="./assets/avatar.png"
+  width="25%"
+  align="right"
+/>
 
-- 💬 Ask me about **anime, games, and piracy**
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I%27m+Krish%2C+a+CS+student"
+  width="70%"
+/>
 
-- 📫 How to reach me **kingkrishtdm@gmail.com**
+<br><br>
 
-- ⚡ Fun fact **I am a weird combination of Anime, Programming, and Gaming**
+<pre>
+    💼 CS Student • Various Interests
+    💻 Python, Java, C++, ZSH • Linux, Shell Scripting, Breaking Things
+    📖 Computer Architecture 
+    🎮 Gaming, Anime, Socializing
+    🐾 Tired 24/7
+</pre>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dragonflamez32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dragonflamez32" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dragonflamez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dragonflamez" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="./assets/mascot.gif" height="40" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragonflamez&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="dragonflamez" /></p>
+<br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragonflamez&show_icons=true&theme=tokyonight&locale=en" alt="dragonflamez" /></p>
+[![](https://img.shields.io/badge/LinkedIn-0a66c2)](https://www.linkedin.com/in/krish-patel-980403225/)
+[![](https://img.shields.io/badge/Website-A7A459)](Will get around to making a personal site one of these days)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragonflamez&theme=dark" alt="dragonflamez" /></p>
-
+</div>
