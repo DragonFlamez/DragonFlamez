@@ -21,11 +21,11 @@
     🐾 Tired 24/7
 </pre>
 
-<br>
+<!-- <br>
 
-<img src="./assets/mascot.gif" height="40" />
+<img src="./assets/mascot.gif" width="250" height="125" />
 
-<br><br>
+<br><br> -->
 
 [![](https://img.shields.io/badge/LinkedIn-0a66c2)](https://www.linkedin.com/in/krish-patel-980403225/)
 [![](https://img.shields.io/badge/Website-A7A459)](Will get around to making a personal site one of these days)
