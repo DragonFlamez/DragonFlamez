@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <h3 align="center">A mediocre-advanced programmer depending on the topic</h3>
 
-- 🌱 I’m currently learning **advanced Python, React, zsh**
+- 🌱 I’m currently learning **Computer Architecture**
 
-- 💬 Ask me about **anime, life, and school**
+- 💬 Ask me about **anime, games, and piracy**
 
 - 📫 How to reach me **kingkrishtdm@gmail.com**
 
