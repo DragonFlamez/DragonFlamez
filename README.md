@@ -23,7 +23,7 @@
 
 <br>
 
-<img src="./assets/mascot.gif" height="40" />
+<img src="./assets/mascot.gif" height="100" />
 
 <br><br>
 
